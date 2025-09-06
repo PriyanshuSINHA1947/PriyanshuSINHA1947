@@ -29,8 +29,7 @@ I love building **smart solutions** that bridge the gap between the physical and
 ---
 
 ## 🌱 Currently Exploring
-- Building **IoT–Cloud integrated systems**  
-- Learning **Machine Learning for IoT**  
+- Building **IoT–Cloud integrated systems**   
 - Improving **embedded design workflows**  
 
 ---
