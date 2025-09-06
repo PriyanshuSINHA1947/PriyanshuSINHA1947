@@ -36,7 +36,7 @@ I love building **smart solutions** that bridge the gap between the physical and
 ---
 
 ## 📫 Let’s Connect
-- 💼 [LinkedIn](linkedin.com/in/sinhapriyanshu20003)   
+- 💼 [LinkedIn](https://www.linkedin.com/in/sinhapriyanshu20003?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJ7AMp2t5SvGBvG0YuKT9Bw%3D%3D)   
 - ✉️ Reach me at: **priyanshusinha1947@gmail.com**
 
 ---
