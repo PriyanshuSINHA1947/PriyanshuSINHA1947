@@ -6,7 +6,7 @@ I love building **smart solutions** that bridge the gap between the physical and
 ---
 
 ## 🔧 Tech Playground
-- 💡 **IoT & Embedded Systems:** ESP32, Arduino, STM32  
+- 💡 **IoT & Embedded Systems:** ESP32, Arduino, RuggedBoard A5D2X 
 - 🌐 **Cloud & DevOps:** AWS, VPC, EC2, IoT Core  
 - 💻 **Programming:** C, Python, Java  
 - 📊 **Data & Connectivity:** Blynk, Google Sheets API, MQTT, I2C, RFID, Ultrasonic Sensors  
