@@ -36,9 +36,8 @@ I love building **smart solutions** that bridge the gap between the physical and
 ---
 
 ## 📫 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/priyanshu-sinha1947)  
-- 🐙 [GitHub](https://github.com/PriyanshuSINHA1947)  
-- ✉️ Reach me at: **your-email@example.com**
+- 💼 [LinkedIn](linkedin.com/in/sinhapriyanshu20003)   
+- ✉️ Reach me at: **priyanshusinha1947@gmail.com**
 
 ---
 
